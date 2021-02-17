@@ -10,8 +10,6 @@
 - ChromeDriver.exe(需要查看自己的浏览器版本再下载,)链接为:http://npm.taobao.org/mirrors/chromedriver/
 
 运行:
-- 申请Server酱Key(不会百度)
+- 申请Server酱Key(也可以不使用,可以自行考虑)
 - 将ServerKey和账号密码填到DailyHealth.py对应位置
 - 将下载的ChromeDriver.exe放到DailyHealth.py同目录下,若python环境是配置好了的,就可以运行了
-
-注明:有空在把信息写详细点,后面考虑挂到服务器上面
