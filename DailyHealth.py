@@ -37,7 +37,7 @@ def autofile(ID, passnumber):
 
 # Server酱
 def notify(text):
-    # 填写Server酱的KEY
+    # 填写Server酱的KEY,例如https://sc.ftqq.com/XXXXXXXXXXX.send
     api = "https://sc.ftqq.com/Server酱的KEY.send"
     data = {"text": "健康日报", "desp": text}
     requests.post(api, data=data)
